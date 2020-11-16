@@ -8,3 +8,8 @@
 
 
 #ich habe keine Ahnung wieso ich auf einer anderem Dateipfad schreibe
+
+
+
+
+#wir müssen halt drauf achten, nicht die gleichen Zeilen zu benutzen
