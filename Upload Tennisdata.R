@@ -13,3 +13,5 @@
 
 
 #wir müssen halt drauf achten, nicht die gleichen Zeilen zu benutzen
+
+#aber wieso kommen meine Nachrichten nicht an!? 
