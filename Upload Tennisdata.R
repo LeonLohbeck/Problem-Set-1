@@ -29,4 +29,4 @@
 
 #Ich wünsche euch einen schönen Abend 
 
-#Ein wunderschönen Dienstag morgen wünsche ich euch
+#Einen wunderschönen Dienstag morgen wünsche ich euch
